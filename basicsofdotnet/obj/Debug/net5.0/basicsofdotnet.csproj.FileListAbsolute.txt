@@ -1,0 +1,16 @@
+E:\workspace\cursoDotnet\basicsofdotnet\bin\Debug\net5.0\basicsofdotnet.exe
+E:\workspace\cursoDotnet\basicsofdotnet\bin\Debug\net5.0\basicsofdotnet.deps.json
+E:\workspace\cursoDotnet\basicsofdotnet\bin\Debug\net5.0\basicsofdotnet.runtimeconfig.json
+E:\workspace\cursoDotnet\basicsofdotnet\bin\Debug\net5.0\basicsofdotnet.runtimeconfig.dev.json
+E:\workspace\cursoDotnet\basicsofdotnet\bin\Debug\net5.0\basicsofdotnet.dll
+E:\workspace\cursoDotnet\basicsofdotnet\bin\Debug\net5.0\ref\basicsofdotnet.dll
+E:\workspace\cursoDotnet\basicsofdotnet\bin\Debug\net5.0\basicsofdotnet.pdb
+E:\workspace\cursoDotnet\basicsofdotnet\obj\Debug\net5.0\basicsofdotnet.csprojAssemblyReference.cache
+E:\workspace\cursoDotnet\basicsofdotnet\obj\Debug\net5.0\basicsofdotnet.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\cursoDotnet\basicsofdotnet\obj\Debug\net5.0\basicsofdotnet.AssemblyInfoInputs.cache
+E:\workspace\cursoDotnet\basicsofdotnet\obj\Debug\net5.0\basicsofdotnet.AssemblyInfo.cs
+E:\workspace\cursoDotnet\basicsofdotnet\obj\Debug\net5.0\basicsofdotnet.csproj.CoreCompileInputs.cache
+E:\workspace\cursoDotnet\basicsofdotnet\obj\Debug\net5.0\basicsofdotnet.dll
+E:\workspace\cursoDotnet\basicsofdotnet\obj\Debug\net5.0\ref\basicsofdotnet.dll
+E:\workspace\cursoDotnet\basicsofdotnet\obj\Debug\net5.0\basicsofdotnet.pdb
+E:\workspace\cursoDotnet\basicsofdotnet\obj\Debug\net5.0\basicsofdotnet.genruntimeconfig.cache

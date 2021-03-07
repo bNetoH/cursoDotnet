@@ -1,0 +1,16 @@
+E:\workspace\cursoDotnet\CrudSeries\bin\Debug\net5.0\CrudSeries.exe
+E:\workspace\cursoDotnet\CrudSeries\bin\Debug\net5.0\CrudSeries.deps.json
+E:\workspace\cursoDotnet\CrudSeries\bin\Debug\net5.0\CrudSeries.runtimeconfig.json
+E:\workspace\cursoDotnet\CrudSeries\bin\Debug\net5.0\CrudSeries.runtimeconfig.dev.json
+E:\workspace\cursoDotnet\CrudSeries\bin\Debug\net5.0\CrudSeries.dll
+E:\workspace\cursoDotnet\CrudSeries\bin\Debug\net5.0\ref\CrudSeries.dll
+E:\workspace\cursoDotnet\CrudSeries\bin\Debug\net5.0\CrudSeries.pdb
+E:\workspace\cursoDotnet\CrudSeries\obj\Debug\net5.0\CrudSeries.csprojAssemblyReference.cache
+E:\workspace\cursoDotnet\CrudSeries\obj\Debug\net5.0\CrudSeries.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\cursoDotnet\CrudSeries\obj\Debug\net5.0\CrudSeries.AssemblyInfoInputs.cache
+E:\workspace\cursoDotnet\CrudSeries\obj\Debug\net5.0\CrudSeries.AssemblyInfo.cs
+E:\workspace\cursoDotnet\CrudSeries\obj\Debug\net5.0\CrudSeries.csproj.CoreCompileInputs.cache
+E:\workspace\cursoDotnet\CrudSeries\obj\Debug\net5.0\CrudSeries.dll
+E:\workspace\cursoDotnet\CrudSeries\obj\Debug\net5.0\ref\CrudSeries.dll
+E:\workspace\cursoDotnet\CrudSeries\obj\Debug\net5.0\CrudSeries.pdb
+E:\workspace\cursoDotnet\CrudSeries\obj\Debug\net5.0\CrudSeries.genruntimeconfig.cache
